@@ -1,0 +1,22 @@
+{
+  "sentences": [
+    {
+      "id": "id1",
+      "sentence": "s1",
+      "answers": [
+        "a11",
+        "a12"
+      ],
+      "propertyId": 1
+    },
+    {
+      "id": "id2",
+      "sentence": "s2",
+      "answers": [
+        "a21",
+        "a22"
+      ],
+      "propertyId": 2
+    }
+  ]
+}
